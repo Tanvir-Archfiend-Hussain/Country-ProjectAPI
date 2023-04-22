@@ -1,3 +1,9 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
 body {
   background: url(https://i.ytimg.com/vi/TEZBFGw2uWs/maxresdefault.jpg);
 }
