@@ -1,2 +1,2 @@
-let searchBtn = document.getElementById("");
-let countryInp = document.getElementById("");
+let searchBtn = document.getElementById("search-btn");
+let countryInp = document.getElementById("country-inp");
